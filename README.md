@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 - 🔭 I'm currently working on Python backend development, APIs with FastAPI, and asynchronous programming.
 - 🌱 I love learning about software testing, Python best practices, and clean code.
 - 👯 I enjoy collaborating on open source projects and improving my coding skills every day.
-- 📫 How to reach me: [dylan.peterano.work@gmail.com] or connect with me on [LinkedIn](www.linkedin.com/in/dylan-peterano-a88079280)
+- 📫 How to reach me: dylan.peterano.work@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/dylan-peterano-a88079280)
 
 ## Skills
 - Programming Languages: Python, HTML, CSS, C#, SQL
