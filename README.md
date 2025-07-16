@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Dylan 👋
 
-<!--
-**dpeterano/dpeterano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I'm currently working on Python backend development, APIs with FastAPI, and asynchronous programming.
+- 🌱 I love learning about software testing, Python best practices, and clean code.
+- 👯 I enjoy collaborating on open source projects and improving my coding skills every day.
+- 📫 How to reach me: [your-email@example.com] or connect with me on [LinkedIn](https://linkedin.com/in/your-profile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: Python, HTML, CSS, C#
+- Frameworks: FastAPI
+- Tools: Git, pytest
+- Concepts: Asynchronous programming, REST APIs, Testing & CI/CD
+
+## Projects & Highlights
+- [Project 1](https://github.com/dpeterano/training-projects) - My Training projects.
+- [Project 2](https://github.com/dpeterano/coding-projects) - My Big Projects.
+
+## Stats
+![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+Thanks for visiting! 🚀
