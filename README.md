@@ -19,7 +19,8 @@ Welcome to my GitHub profile!
 - [Coding Projects](https://github.com/dpeterano/coding-projects) - My Big Projects.
 
 ## Stats
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Dylan's GitHub stats](![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpeterano&show_icons=true&theme=radical)
+)
 
 ---
 
