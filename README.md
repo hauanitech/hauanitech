@@ -15,8 +15,8 @@ Welcome to my GitHub profile!
 - Concepts: Asynchronous programming, REST APIs, Testing & CI/CD
 
 ## Projects & Highlights
-- [Project 1](https://github.com/dpeterano/training-projects) - My Training projects.
-- [Project 2](https://github.com/dpeterano/coding-projects) - My Big Projects.
+- [Coding Exercises](https://github.com/dpeterano/training-projects) - My Training Exercises.
+- [Coding Projects](https://github.com/dpeterano/coding-projects) - My Big Projects.
 
 ## Stats
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
