@@ -16,6 +16,7 @@ Bienvenue sur mon profil GitHub !
 ## Projets & Réalisations
 - [Exercices de code](https://github.com/dpeterano/training-projects) – Mes exercices d'entraînement.  
 - [Projets de programmation](https://github.com/dpeterano/coding-projects) – Mes projets plus complets.
+- [Portfolio](https://github.com/dpeterano/portfolio) – Mon Portfolio Personnel.
 
 ## Statistiques
 ![Statistiques GitHub de Dylan](https://github-readme-stats.vercel.app/api?username=dpeterano&show_icons=true&theme=radical)
