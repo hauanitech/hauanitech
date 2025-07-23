@@ -12,10 +12,9 @@ Currently based in Tahiti, Toahotu, I'm working at Natimai Solutions. I am a jun
 
 ## Top Projects
 
-- [dpeterano](https://github.com/dpeterano/dpeterano) - Hello world, this is my profile. ⭐️ 0 | Language: Not specified | Issues: 0
-- [coding-projects](https://github.com/dpeterano/coding-projects) - Dossier contenant tout mes projets de programmations. ⭐️ 0 | Language: Python | Issues: 0
-- [training-exercises](https://github.com/dpeterano/training-exercises) - Dossiers contenant des petits exercices. ⭐️ 0 | Language: Python | Issues: 0
-- [portfolio](https://github.com/dpeterano/portfolio) - My personal portfolio showcasing my work. ⭐️ 0 | Language: HTML | Issues: 0
+- [coding-projects](https://github.com/dpeterano/coding-projects) - My Personal Coding Projects. ⭐️ 0 | Language: Python | Issues: 0
+- [training-exercises](https://github.com/dpeterano/training-exercises) - Training Codes, Useful for beginners. ⭐️ 0 | Language: Python | Issues: 0
+- [portfolio](https://github.com/dpeterano/portfolio) - My personal portfolio showcasing my work. ⭐️ 0 | Language: HTML, CSS, JS | Issues: 0
 
 ## GitHub Stats
 
