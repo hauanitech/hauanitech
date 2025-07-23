@@ -1,6 +1,4 @@
-# Hi, I'm Dylan 👋
-
-Welcome to my GitHub profile!
+# Hi, I'm Dylan PETERANO, currently cs student at the University of French Polynesia
 
 ## About Me
 - 🔭 I'm currently working on my backend dev. skills
