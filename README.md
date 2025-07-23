@@ -8,7 +8,7 @@ Currently based in Tahiti, Toahotu, I'm working at Natimai Solutions. I am a jun
 
 ## Skills & Technologies
 
-html,css,flask,django,git,mysql
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,py,js,git,fastapi&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
@@ -22,10 +22,10 @@ html,css,flask,django,git,mysql
 📊 **Statistics:** 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpeterano&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpeterano&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
-- Updated README.md in [dpeterano](https://github.com/dpeterano/dpeterano) 
 - Currency Changer Built in [coding-projects](https://github.com/dpeterano/coding-projects) 
 - Updated README.md in [portfolio](https://github.com/dpeterano/portfolio) 
 - Various updates in training-exercises and coding-projects.
