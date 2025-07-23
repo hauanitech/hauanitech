@@ -21,6 +21,7 @@ Currently based in Tahiti, Toahotu, I'm working at Natimai Solutions. I am a jun
 📊 **Statistics:** 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpeterano&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpeterano&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
