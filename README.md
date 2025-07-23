@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Dylan PETERANO, a junior developer with a passion for coding and continuous learning. As a computer science student, I'm excited to explore the world of programming and software development.
+I'm Dylan PETERANO, a junior developer with a passion for coding. As a computer science student, I'm excited to explore the world of programming and software development.
 
 ## About Me
 
