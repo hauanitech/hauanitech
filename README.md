@@ -1,4 +1,6 @@
-# Hi, I'm Dylan PETERANO, currently cs student at the University of French Polynesia
+# Welcome to my profile
+Hi, I'm Dylan PETERANO; currently a CS Student at the
+University of French Polynesia
 
 ## About Me
 - 🔭 I'm currently working on my backend dev. skills
