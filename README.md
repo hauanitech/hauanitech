@@ -1,22 +1,31 @@
-# Welcome to my profile
-Hi, I'm Dylan PETERANO; currently a CS Student at the
-University of French Polynesia
+## Hi there! 👋
+
+I'm Dylan PETERANO, a junior developer with a passion for coding and continuous learning. As a computer science student, I'm excited to explore the world of programming and software development.
 
 ## About Me
-- 🔭 I'm currently working on my backend dev. skills
-- 🌱 I love writing clean code and learn new programming languages
-- 👯 I strive to improve my programming skills every day.
-- 📫 Contact me: dylan.peterano.work@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/dylan-peterano-a88079280)
 
-## Skills
-- Programming Languages: Python, HTML, CSS, C#, SQL
-- Frameworks: FastAPI  
-- Tools: Git, pytest, Docker
+Currently based in Tahiti, Toahotu, I'm working at Natimai Solutions. I am a junior developer and a computer science student, eager to expand my skills and contribute to exciting projects.
 
-## Projects & Achievements
-- [Code Exercises](https://github.com/dpeterano/training-projects) – My practice exercises.  
-- [Programming Projects](https://github.com/dpeterano/coding-projects) – My more complete projects.  
-- [Portfolio](https://github.com/dpeterano/portfolio) – My personal portfolio.
+## Skills & Technologies
 
-## Stats
-![Dylan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpeterano&show_icons=true&theme=radical)
+html,css,flask,django,git,mysql
+
+## Top Projects
+
+- [dpeterano](https://github.com/dpeterano/dpeterano) - Hello world, this is my profile. ⭐️ 0 | Language: Not specified | Issues: 0
+- [coding-projects](https://github.com/dpeterano/coding-projects) - Dossier contenant tout mes projets de programmations. ⭐️ 0 | Language: Python | Issues: 0
+- [training-exercises](https://github.com/dpeterano/training-exercises) - Dossiers contenant des petits exercices. ⭐️ 0 | Language: Python | Issues: 0
+- [portfolio](https://github.com/dpeterano/portfolio) - My personal portfolio showcasing my work. ⭐️ 0 | Language: HTML | Issues: 0
+
+## GitHub Stats
+
+📊 **Statistics:** 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpeterano&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Updated README.md in [dpeterano](https://github.com/dpeterano/dpeterano) 
+- Currency Changer Built in [coding-projects](https://github.com/dpeterano/coding-projects) 
+- Updated README.md in [portfolio](https://github.com/dpeterano/portfolio) 
+- Various updates in training-exercises and coding-projects.
