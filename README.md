@@ -8,7 +8,7 @@ Currently based in Tahiti, Toahotu, I'm working at Natimai Solutions. I am a jun
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,xml,py,js,git,fastapi&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,py,js,git,fastapi&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
