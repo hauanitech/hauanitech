@@ -1,10 +1,11 @@
 ## Hi there! 👋
 
-I'm Dylan PETERANO, a junior developer with a passion for coding. As a computer science student, I'm excited to explore the world of programming and software development.
+I'm Dylan PETERANO, a junior developer with a passion for coding. As of now I'm still a computer science student, 
+Feel free to ask anything or give your oppinion on my projects.
 
 ## About Me
 
-Currently based in Tahiti, Toahotu, I'm working at Natimai Solutions. I am a junior developer and a computer science student, eager to expand my skills and contribute to exciting projects.
+Currently based in Tahiti, Toahotu, I'm working at Natimai Solutions.
 
 ## Skills & Technologies
 
