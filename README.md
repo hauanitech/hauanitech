@@ -13,18 +13,13 @@ Currently based in Tahiti, Toahotu, I'm working at Natimai Solutions.
 
 ## Top Projects
 
-- [coding-projects](https://github.com/dpeterano/coding-projects) - My Personal Coding Projects. ⭐️ 0 | Language: Python | Issues: 0
-- [training-exercises](https://github.com/dpeterano/training-exercises) - Training Codes, Useful for beginners. ⭐️ 0 | Language: Python | Issues: 0
-- [portfolio](https://github.com/dpeterano/portfolio) - My personal portfolio showcasing my work. ⭐️ 0 | Language: HTML, CSS, JS | Issues: 0
+- [to-do-list-app](https://github.com/dpeterano/to-do-list-app) - Simple To Do List App ( JavaScript Focused )
+- [coding-projects](https://github.com/dpeterano/coding-projects) - My Personal Coding Projects.
+- [training-exercises](https://github.com/dpeterano/training-exercises) - Training Codes, Useful for beginners.
+- [portfolio](https://github.com/dpeterano/portfolio) - My personal portfolio showcasing my work.
 
 ## GitHub Stats
 
 📊 **Statistics:** 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpeterano&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Recent Activity
-
-- Currency Changer Built in [coding-projects](https://github.com/dpeterano/coding-projects) 
-- Updated README.md in [portfolio](https://github.com/dpeterano/portfolio) 
-- Various updates in training-exercises and coding-projects.
