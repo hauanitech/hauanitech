@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Heyaa!
 
 I'm Dylan PETERANO, a junior developer with a passion for coding. As of now I'm still a computer science student, 
 Feel free to ask anything or give your oppinion on my projects.
