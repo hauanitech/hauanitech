@@ -13,7 +13,7 @@ Currently based in Tahiti, Toahotu, I'm working at Natimai Solutions.
 
 ## Top Projects
 
-- [to-do-list-app](https://github.com/dpeterano/to-do-list-app) - Simple To Do List App ( JavaScript Focused )
+- [to-do-list-app](https://github.com/dpeterano/to-do) - Simple To Do List App ( JavaScript Focused )
 - [coding-projects](https://github.com/dpeterano/coding-projects) - My Personal Coding Projects.
 - [training-exercises](https://github.com/dpeterano/training-exercises) - Training Codes, Useful for beginners.
 - [portfolio](https://github.com/dpeterano/portfolio) - My personal portfolio showcasing my work.
