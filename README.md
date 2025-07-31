@@ -21,6 +21,6 @@ Currently based in Tahiti, Toahotu, I'm working at Natimai Solutions.
 
 📊 **Statistics:** 
 
-![GitHub Stats](https://streak-stats.demolab.com?user=hauanitech&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=hauanitech&theme=tokyonight&hide_border=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hauanitech&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
