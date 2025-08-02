@@ -13,8 +13,6 @@ Currently based in Tahiti, Toahotu, I'm working at Natimai Solutions.
 ## Top Projects
 
 - [to-do-list-app](https://github.com/hauanitech/to-do) - Simple To Do List App ( JavaScript Focused )
-- [coding-projects](https://github.com/hauanitech/coding-projects) - My Personal Coding Projects.
-- [training-exercises](https://github.com/hauanitech/training-exercises) - Training Codes, Useful for beginners.
 - [portfolio](https://github.com/hauanitech/portfolio) - My personal portfolio showcasing my work.
 
 ## GitHub Stats
