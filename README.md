@@ -1,26 +1,26 @@
-Hi,
-I'm Hauani, a junior developer with a passion for coding. As of now I'm still a computer science student, 
-Feel free to ask anything or give your oppinion on my projects.
-
 ## About Me
 
-Currently based in Tahiti, Toahotu, I'm working at Natimai Solutions.
+Hi, I'm Hauani, a junior developer with a passion for coding. As of now I'm still a computer science student, Feel free to ask anything or give your oppinion on my projects.
 
-## Skills & Technologies
+## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,react,py,js,git,fastapi,postgresql&perline=8)](https://skillicons.dev)
-
-## Top Projects
-
-- [to-do-list-app](https://github.com/hauanitech/to-do) - Simple To Do List App ( JavaScript Focused )
-- [portfolio](https://github.com/hauanitech/portfolio) - My personal portfolio showcasing my work.
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
 
 ## GitHub Stats
 
-📊 **Statistics:** 
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=hauanitech&theme=dark&show_icons=true&count_private=true">
 
-![GitHub Stats](https://streak-stats.demolab.com?user=hauanitech&theme=tokyonight&hide_border=false)
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=hauanitech&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=hauanitech&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hauanitech&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+## Connect with me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hauanitech&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/hauanitech" target="_blank">Hauani</a> Email: contact@hauani.tech</p>
