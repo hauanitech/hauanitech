@@ -12,6 +12,8 @@ Hi, I'm Hauani, a junior developer with a passion for coding. As of now I'm stil
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"> 
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
+
 
 ## GitHub Stats
 
