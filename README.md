@@ -17,7 +17,9 @@ Hi, I'm Hauani, a junior developer with a passion for coding. As of now I'm stil
 
 ## Highlights
 
-[FastAPI Backend App - Docker](https://github.com/hauanitech/fastapi-app)
+:open_file_folder: [FastAPI Backend App - Docker](https://github.com/hauanitech/fastapi-app)<br>
+:open_file_folder: [My Portfolio](https://github.com/hauanitech/portfolio)    at     [hauani.tech](https://www.hauani.tech) <br>
+:open_file_folder: [To Do List Web App](https://github.com/hauanitech/web-to-do)
 
 ## GitHub Stats
 
