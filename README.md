@@ -26,7 +26,7 @@ Feel free to ask anything or give your opinion on my projects.
 
 # Highlights
 
-- :open_file_folder: [FastAPI Backend App - Docker](https://github.com/hauanitech/fastapi-app)  
+- :open_file_folder: [FastAPI Backend Template](https://github.com/hauanitech/FastAPI-Template)  
 - :open_file_folder: [My Portfolio](https://github.com/hauanitech/portfolio) → [hauani.tech](https://www.hauani.tech)  
 - :open_file_folder: [To Do List Web App](https://github.com/hauanitech/web-to-do)
 
