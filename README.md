@@ -19,7 +19,9 @@ Feel free to ask anything or give your opinion on my projects.
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat">
   <br>
   <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
 </p>
